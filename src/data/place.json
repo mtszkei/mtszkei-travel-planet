@@ -1,0 +1,143 @@
+[
+    {
+        "id": "finland-lapland",
+        "country": "Finland",
+        "location": "Lapland",
+        "continent": "europe",
+        "subtitle": "FINDING YOUR TRUE NORTH IN FINLAN: AN ARCTIC EXPEDITION",
+        "summary": "Activate your adventurous side during this Arctic expedition that starts in Helsinki and winds through Lapland, with Northern Lights, snowmobile safaris, and sauna sessions.",
+        "itinerary": [
+            "Today, enjoy a day in Helsinki 'a la carte' style. Meaning, after breakfast, you’ll have your pick of activities. You can start your day with an optional wilderness walk through the Helsinki forests, led by a local outdoors expert. Or, you can kick off the morning on the water during a scenic boat trip to Suomenlinna Fortress in the Helsinki Archipelago.",
+            "Other options include following in the footsteps of architect Alvar Aalto on an architectural trail, or country hopping with a day trip to the medieval time capsule of Tallinn, Estonia — just two hours away, across the Gulf of Finland. You can also take a train trip to Tampere, Finland, the sauna capital of the world, or simply enjoy Helsinki’s most emblematic coffee shops, art galleries, spas, and saunas on your own. ",
+            "As evening descends, you’ll meet your driver for a transfer to the grand Helsinki Railway Station, where you’ll board the modern sleeper train to Lapland. Tonight, settle in a private compartment — a compact and cozy roomette — and enjoy your overnight ride on the so-called “Santa Express.” On board, you’ll find a dining car serving up soothing Finnish comfort food, like creamy salmon soup, meatballs, salad, pasta, blueberry juice, and local beer."
+        ],
+        "highlights": [
+            {
+                "title": "Day Trip to Tallinn or Tampere",
+                "description": "With free time today, you can use Helsinki as your home base to explore nearby cities. For another perspective on Finland, head via train to Tampere for a wellness experience unlike any other. Or, cross the border to Estonia, where Tallinn's fairytale-like Old Town reflects centuries of wars and occupations. Explore this Middle Age gem of 15th-century merchant houses, towers, churches, and defensive walls during a guided walk, complemented by a local craft guild visit and traditional coffee break."
+            },
+            {
+                "title": "Wilderness Walk",
+                "description": "This optional wilderness walk will lead you through Helsinki's surrounding landscapes, offering up a nature-forward perspective on the urban culture you’ve already seen. You'll follow your expert outdoors guide along wilderness trails, breathing in fresh air and gaining your first introduction to Scandinavian wellness in its most natural form."
+            },
+            {
+                "title": "Boat Trip to Suomenlinna Fortress",
+                "description": "Interested in experiencing Helsinki by water? Lean in to the city’s coastal positioning with a fun and fast speedboat trip to the breathtaking Suomenlinna Fortress. This 18th-century landmark epitomizes the military architecture of the times and merges the well-designed fortress with the natural surroundings of picturesque Finland."
+            }
+        ],
+        "pictures": {
+            "cover": "/src/images/place/finland/cover.png",
+            "side": "/src/images/place/finland/side.png",
+            "wrappers": [
+                "/src/images/place/finland/w1.png",
+                "/src/images/place/finland/w2.png",
+                "/src/images/place/finland/w3.png"
+            ]
+        },
+        "video": "https://www.youtube.com/embed/93QUsSxqAfk"
+    },
+    {
+        "id": "japan-tokyo",
+        "country": "Japan",
+        "location": "Tokyo",
+        "continent": "asia",
+        "subtitle": "ENJOY THE MYSTERIOUS CULTURE OF THE EAST: JAPAN'S GOLDEN ROUTE",
+        "summary": "Experience Japan's enthralling essence on this trip through the Golden Route’s most beloved sights and traditions, from Tokyo.",
+        "itinerary": [
+            "Now that you’ve gotten the lay of the land, it’s time to explore Tokyo at your own pace! After breakfast this morning, embark on a self-guided tour of new-to-you neighborhoods across this sprawling city.",
+            "Start the morning by getting lost in the quirky, colourful streets of Harajuku, where fashion knows no limits. As the day progresses, single out the world-renowned Shibuya Crossing and walk across its famous — and famously busy — intersection. Continue onward to soak in the buzz of Shinjuku, home to hidden izakayas, dazzling city views, and an endless array of entertainment.",
+            "To cap off this fantastic day of sightseeing and experiencing Tokyo’s hustle and bustle, you’ll have the option to adopt a slower pace with tonight's dinner. Should you so choose, you can sit down for a celebratory omakase meal, enjoying a special menu of sushi crafted by a local chef."
+        ],
+        "highlights": [
+            {
+                "title": "Omakase Dinner (optional)",
+                "description": "Embark on the ultimate culinary adventure with tonight’s omakase dinner, where each bite offers a tantalizing surprise crafted by a culinary genius. During this personalized chef’s choice meal, you’ll surrender to the skilled hands of a local chef, tasting the likes of delicate sashimi and perfectly seared wagyu beef. While the menu varies, each bite promises to reveal a symphony of flavors indicative of Tokyo’s thrilling gastronomy. "
+            },
+            {
+                "title": "Shibuya Crossing",
+                "description": "This famous Tokyo intersection ranks among the world’s busiest — if not THE world’s busiest. Up to 3,000 people have been known to cross here at the same time, though on today’s visit, you’re more likely to experience the crossing alongside hundreds of other people. As the light changes color and you enter a throng of Tokyo locals and tourists, you’ll understand the vibrant, yet organized, energy that permeates throughout Shibuya."
+            }
+        ],
+        "pictures": {
+            "cover": "/src/images/place/japan/cover.png",
+            "side": "/src/images/place/japan/side.png",
+            "wrappers": [
+                "/src/images/place/japan/w1.png",
+                "/src/images/place/japan/w2.png",
+                "/src/images/place/japan/w3.png"
+            ]
+        },
+        "video": "https://www.youtube.com/embed/I_qaccjrirc"
+    },
+    {
+        "id": "mexico-mexico-city",
+        "country": "Mexico",
+        "location": "Mexico City",
+        "continent": "north-america",
+        "subtitle": "MEXICO CITY: A CULTURAL AND CULINARY MARCELS",
+        "summary": "Immerse yourself in the vibrancy of Mexico City during this long cultural and gastronomic tour through the lens of Frida Kahlo, Teotihuacán, Lucha Libre, and so much more.",
+        "itinerary": [
+            "After breakfast at your hotel this morning, you’ll embark on another fun walking tour to experience the intricacies of another unique CDMX neighborhood: La Colonia Roma. This morning, you’ll meet your local expert guide and head out on a roughly four-mile walk that’s broken up with notable stops along the way. Today, you’ll make about six pitstops to explore the gastronomy, architecture, and stories of this fascinating neighborhood, which has more than 110 years of history. ",
+            "As for those tour stops? Today, you’ll taste everything from fish tacos and tamales to signature coffee, vegan tacos, and Mexican cocktails, all curated by your local guide. When you ve finished visiting these places, full of delicious dishes and new insight into Mexican culture, you’ll make your way back to your hotel. ",
+            "The rest of today is yours to explore more of this lively neighborhood or more of Mexico City however you please. You can keep in theme with the morning’s walking tour and take another stroll through a different neighborhood. Or, you can also visit any number of museums or historic sites. If you haven’t seen the beloved Diego Rivera murals, you have the time to head there for a lesson in art history. Yet, no matter what you choose, your decision is certain to be the right one; you can’t really go wrong in this animated city. "
+        ],
+        "highlights": [
+            {
+                "title": "Museo Mural Diego Rivera",
+                "description": "During your free time today, you can immerse yourself in Mexico City’s art history. You’ll have the chance to immerse yourself in the grand murals of Diego Rivera. The artist’s vivid storytelling and colossal artworks provide insights into Mexico's history and societal struggles, and provide a chance to witness the powerful artistic expression of one of Mexico's most celebrated artists. The museum's setting within a historic building further enhances your experience, letting you appreciate the murals in their intended context."
+            },
+            {
+                "title": "Colonia Roma",
+                "description": "This neighborhood developed around the early 20th century, so much of its architecture reflects an early 1900s European influence. During today’s walking tour, you’ll notice grand mansions, Art Deco buildings, and colonial-era structures. The neighborhood’s wide boulevards and leafy streets combine this variety of architectural styles alongside early 20th-century constructions, mid-century Modernist designs, and even some contemporary buildings, creating a true blend of time frames and architectural legacies."
+            }   
+        ],
+        "pictures": {
+            "cover": "/src/images/place/mexico/cover.png",
+            "side": "/src/images/place/mexico/side.png",
+            "wrappers": [
+                "/src/images/place/mexico/w1.png",
+                "/src/images/place/mexico/w2.png",
+                "/src/images/place/mexico/w3.png"
+            ]
+        },
+        "video": "https://www.youtube.com/embed/GUMXv0VEtoc"
+    },
+    {
+        "id": "southern-africa-cape-town",
+        "country": "South Africa",
+        "location": "Cape Town",
+        "continent": "africa",
+        "subtitle": "SOUTH AFRICA: CAPE TOWN, TRAIN SAFARI",
+        "summary": "From the penguins of Cape Town to the elephants of Thornybush and Kruger National Park, this 10-day tour will exhilarate you with South Africa’s wildest wildlife adventures.",
+        "itinerary": [
+            "After breakfast at your hotel, you’ll meet your local expert guide for a full-day excursion to the utterly captivating Cape Peninsula. Today’s tour will touch on the area’s most iconic sites, starting with a drive along the Atlantic Coast toward Hout Bay. En route, you’ll pass the cosmopolitan suburbs of Green Point, Sea Point, Clifton, and Camps Bay, winding past gleaming waves and vast mountains.",
+            "When you arrive at the charming fishing village of Hout Bay, you’ll embark on a guided boat trip with a naturalist to Seal Island, where you’ll have the opportunity to view and befriend Cape fur seals. From there, the road trip will continue via Chapman’s Peak until you stop again at Cape Point Nature Reserve. Here, you’ll ride the Flying Dutchman Funicular to a quintessential coastal lighthouse.",
+            "After a short break for lunch, the tour will bring you to Simon’s Town. This naval site has garnered a reputation, not only for housing the South African Navy’s largest base, but also, crucially, for its resident colony of penguins; Boulder’s Beach houses a breeding colony of more than 2,000 endangered African Penguins, which you’ll have the chance to see for yourself.",
+            "After this once-in-a-lifetime beach and wildlife stop, the tour will conclude in the late afternoon. You’ll be dropped off at your hotel and have free time to spend however you'd like. "
+        ],
+        "highlights": [
+            {
+                "title": "Boulder Beach Penguin Colonies",
+                "description": "If you thought the seals were a once-in-a-lifetime sight, get ready for Boulder's Beach. During this tour of Simon's Town, you'll stop at a protected penguin colony, where you'll find these black and white birds peacefully roaming sandy beaches. There's a penguin viewing area from which you can observe these endangered animals without disturbing their habitat."
+            },
+            {
+                "title": "Seal Island Cruise",
+                "description": "All aboard the Seal Island boat cruise, which will lead you to the remote, aptly named Seal Island, where you’ll find a robust breeding colony filled with seal pups. With a trained naturalist as your guide, you’ll learn all about these playful seals, which birth thousands more each year. If you’re lucky, you’ll get a close peek at the newest seal pups in their natural habitat, and maybe spot some other birds and sea creatures, too. "
+            },
+            {
+                "title": "Flying Dutchman Funicular",
+                "description": "A ride with a view, the Flying Dutchman Funicular offers a fun and scenic way to break up the day. Rather than walk up a steep hill, you'll ride the funicular to the top of Cape Point, from which you can visit the iconic lighthouse."
+            }
+        ],
+        "pictures": {
+            "cover": "/src/images/place/south-africa/cover.png",
+            "side": "/src/images/place/south-africa/side.png",
+            "wrappers": [
+                "/src/images/place/south-africa/w1.png",
+                "/src/images/place/south-africa/w2.png",
+                "/src/images/place/south-africa/w3.png"
+            ]
+        },
+        "video": "https://www.youtube.com/embed/srP7RFVdjWc"
+    }
+]

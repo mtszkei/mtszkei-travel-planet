@@ -1,0 +1,84 @@
+.card-list {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 350px));
+  gap: 24px;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.card {
+  height: 720px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  box-shadow: 0 8px 24px rgb(0, 0, 0, 0.12);
+  transition: box-shadow 0.25s ease, transform 0.25s ease;
+  gap: 40px;
+}
+
+.card:hover {
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+  transform: translate(-6px, -6px);
+}
+
+.card p {
+  text-align: center;
+  max-width: 80%;
+  text-align-last: center;
+  margin: 0;
+}
+
+.country {
+  font-family: "Lugrasimo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 28px;
+  color: rgb(146, 146, 146);
+}
+
+.location {
+  font-size: 32px;
+  font-family: "Fugaz One", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.subtitle {
+  color: green;
+  font-size: 24px;
+}
+
+.card a {
+  margin-top: auto;
+  margin-bottom: 12px;
+}
+
+.card a button {
+  background: none;
+  border: 1px solid rgb(0, 242, 255);
+  cursor: pointer;
+  font-size: 18px;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.card a button:hover {
+  background-color: rgb(216, 252, 255);
+}
+
+.image-container {
+  width: 100%;
+  height: 320px;
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}

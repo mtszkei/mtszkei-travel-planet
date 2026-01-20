@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Planet | About Me</title>
+
+    <link rel="stylesheet" href="/css/layout.css">
+    <link rel="stylesheet" href="/css/aboutme.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+
+</head>
+
+<body class="layout">
+
+    <div id="header"></div>
+    <div id="nav"></div>
+
+    <main>
+        <div class="banner">
+            <img id="banner-image" src="/src/images/banner/banner-aboutme.png" alt="banner-image" />
+            <div class="banner-text">
+                For explorers everywhere.
+            </div>
+        </div>
+        <div class="aboutme-form">
+            <div class="aboutme-pic">
+                <img src="/src/images/aboutme/me.png" alt="My photo">
+            </div>
+
+            <div class="aboutme-info">
+                <h2>About Me</h2>
+                <p>
+                    Hi, I’m an independent traveller and web developer based in Hong Kong.
+                    I created <strong>Travel Planet</strong> to document destinations, stories,
+                    and inspirations for explorers around the world.
+                </p>
+
+                <p>
+                    I believe travel is not just about places, but the people, culture,
+                    and moments that shape our journeys.
+                </p>
+            </div>
+        </div>
+        <section class="contact-section">
+            <h2>Contact Me</h2>
+
+            <form class="contact-form">
+                <div class="form-row">
+                    <label for="fname">First name</label>
+                    <input type="text" id="fname" name="fname" placeholder="John" required>
+                </div>
+
+                <div class="form-row">
+                    <label for="lname">Last name</label>
+                    <input type="text" id="lname" name="lname" placeholder="Doe" required>
+                </div>
+
+                <div class="form-row">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="john@email.com" required>
+                </div>
+
+                <div class="form-row">
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="5" placeholder="Write your message here..."
+                        required></textarea>
+                </div>
+
+                <button type="submit" class="submit-btn">
+                    Send Message
+                </button>
+            </form>
+        </section>
+    </main>
+
+    <div id="footer"></div>
+
+</body>
+
+<script src="/js/layout.js"></script>
+<script src="/js/aboutme.js"></script>
+
+</html>

@@ -1,0 +1,54 @@
+.card-list {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 250px));
+  gap: 24px;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.card {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+
+  text-decoration: none;
+  color: inherit;
+  gap: 20px;
+  border-radius: 20px;
+}
+
+.card:hover {
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.18);
+}
+
+.card span {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.country {
+  font-size: 20px;
+  color: rgb(146, 146, 146);
+}
+
+.location {
+  font-size: 24px;
+}
+
+.image-container {
+  width: 100%;
+  height: 320px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgb(0, 0, 0, 0.12);
+
+  border-radius: 20px;
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}

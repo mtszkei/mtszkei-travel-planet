@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Planet | Places</title>
+
+    <link rel="stylesheet" href="/css/layout.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fugaz+One&family=Lugrasimo&family=Parisienne&display=swap"
+        rel="stylesheet">
+        
+    <link rel="stylesheet" href="/css/places.css">
+    <link rel="stylesheet" href="/css/small-card.css">
+
+</head>
+
+<body class="layout">
+
+    <div id="header"></div>
+    <div id="nav"></div>
+
+    <main>
+        <div class="banner">
+            <img id="banner-image" src="/src/images/banner/banner-place.png" alt="banner-image" />
+            <div class="banner-text">
+                Explore places on this Planet
+            </div>
+        </div>
+        <button id="filter-toggle" class="filter-toggle">
+            - Continent Filter -
+        </button>
+        <section id="filter-group">
+            <div class="filter">
+                <ul>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="asia">
+                            Asia
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="africa">
+                            Africa
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="north-america">
+                            North America
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="south-america">
+                            South America
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="europe">
+                            Europe
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="oceania">
+                            Oceania
+                        </label>
+                    </li>
+                    <li>
+                        <label>
+                            <input type="checkbox" name="continent" value="antarctica">
+                            Antarctica
+                        </label>
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <div class="card-list">
+                <!-- <a class="card">
+                        <div class="image-container">
+                            <img id="card-image" src="/" alt="card-image" />
+                        </div>
+                        <span>Country</span>
+                        <span>Location</span>
+                </a>
+                <a class="card">
+                        <div class="image-container">
+                            <img id="card-image" src="/" alt="card-image" />
+                        </div>
+                        <span>Country</span>
+                        <span>Location</span>
+                </a> -->
+            </div>
+            </div>
+        </section>
+    </main>
+
+    <div id="footer"></div>
+    <script src="/js/layout.js"></script>
+    <script src="/js/place.js"></script>
+</body>
+
+
+
+</html>
