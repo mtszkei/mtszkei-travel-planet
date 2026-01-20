@@ -75,20 +75,20 @@
         "location": "Mexico City",
         "continent": "north-america",
         "subtitle": "MEXICO CITY: A CULTURAL AND CULINARY MARCELS",
-        "summary": "Immerse yourself in the vibrancy of Mexico City during this long cultural and gastronomic tour through the lens of Frida Kahlo, Teotihuacán, Lucha Libre, and so much more.",
+        "summary": "Experience the historic heart and soul of Northern Italy on this tour of the classics, from Venice’s canals and Cinque Terre’s hills to Florence’s Duomo and Rome’s eternal everything.",
         "itinerary": [
-            "After breakfast at your hotel this morning, you’ll embark on another fun walking tour to experience the intricacies of another unique CDMX neighborhood: La Colonia Roma. This morning, you’ll meet your local expert guide and head out on a roughly four-mile walk that’s broken up with notable stops along the way. Today, you’ll make about six pitstops to explore the gastronomy, architecture, and stories of this fascinating neighborhood, which has more than 110 years of history. ",
-            "As for those tour stops? Today, you’ll taste everything from fish tacos and tamales to signature coffee, vegan tacos, and Mexican cocktails, all curated by your local guide. When you ve finished visiting these places, full of delicious dishes and new insight into Mexican culture, you’ll make your way back to your hotel. ",
-            "The rest of today is yours to explore more of this lively neighborhood or more of Mexico City however you please. You can keep in theme with the morning’s walking tour and take another stroll through a different neighborhood. Or, you can also visit any number of museums or historic sites. If you haven’t seen the beloved Diego Rivera murals, you have the time to head there for a lesson in art history. Yet, no matter what you choose, your decision is certain to be the right one; you can’t really go wrong in this animated city. "
+            "It’s time to say ciao — goodbye — to Venice …  but ciao — hello! — to the Italian Riviera. After breakfast this morning, you’ll take a high-speed train to Cinque Terre, which should take around five and a half hours. En route, snag a window seat to watch as your surroundings change, leading you from Venice's lagoons to Liguria's jaw-dropping and jagged coast. ",
+            "Upon your arrival, you’ll check in to your next hotel, with the afternoon entirely yours to get acquainted with the towns of the five lands. Today, you may choose to go for a brief hike, meandering the rolling hills of this lush, seaside region, or take a swim in the crystal clear waters. For more sightseeing, you can spend some time visiting the quaint village of Portovenere, which neighbors Cinque Terre, or perhaps tour a winery for regional wines. ",
+            "Of course, if you’re low on energy after your travel day, you can always relax with a  basil gelato. You’re just an hour from Genoa, the birthplace of pesto, so you'd be remiss not to try a basil-flavored treat as you stroll around town and soak in the area's natural beauty. "
         ],
         "highlights": [
             {
-                "title": "Museo Mural Diego Rivera",
-                "description": "During your free time today, you can immerse yourself in Mexico City’s art history. You’ll have the chance to immerse yourself in the grand murals of Diego Rivera. The artist’s vivid storytelling and colossal artworks provide insights into Mexico's history and societal struggles, and provide a chance to witness the powerful artistic expression of one of Mexico's most celebrated artists. The museum's setting within a historic building further enhances your experience, letting you appreciate the murals in their intended context."
+                "title": "Cinque Terre ",
+                "description": "Cinque Terre — which translates to \"Five Towns\" — ties together a series of old fishing villages, all perched high on the Italian Riviera. Rich in natural beauty, ancient traditions, and amazing food, this area tempts both Italians and tourists to slow down and enjoy the good life at their own pace. As you arrive in Cinque Terre today, you can choose between hiking, village-hopping, and simply sitting down for a long, late lunch of fresh bruschetta and just-caught fish. No matter what you choose, you're sure to fall in love with this one-of-a-kind Italian oasis, where colorful houses shine in marvelous, yet distinctive, harmony. "
             },
             {
-                "title": "Colonia Roma",
-                "description": "This neighborhood developed around the early 20th century, so much of its architecture reflects an early 1900s European influence. During today’s walking tour, you’ll notice grand mansions, Art Deco buildings, and colonial-era structures. The neighborhood’s wide boulevards and leafy streets combine this variety of architectural styles alongside early 20th-century constructions, mid-century Modernist designs, and even some contemporary buildings, creating a true blend of time frames and architectural legacies."
+                "title": "Portovenere",
+                "description": "A special hamlet in the Gulf of Poets, Portovenere, or the port of Venus, neighbors Cinque Terre, just south along the coast. Given this proximity, this small medieval town has been dubbed the sixth Cinque Terre village — and lacks not in beauty but in the crowds of the more famous areas. Today, you'll have the chance to get lost in this corner of heaven as you explore picturesque alleyways, visit the cliffside church of St. Peters, and pretend you're a mermaid in the Byron Grotto."
             }   
         ],
         "pictures": {
@@ -139,5 +139,45 @@
             ]
         },
         "video": "https://www.youtube.com/embed/srP7RFVdjWc"
+    },
+        {
+        "id": "italy-venice-rome-florence",
+        "country": "Italy",
+        "location": "Venice & Rome & Florence",
+        "continent": "europe",
+        "subtitle": "ITALY'S LA DOLCE VITA IN VENICE, ROME, AND FLORENCE",
+        "summary": "From the penguins of Cape Town to the elephants of Thornybush and Kruger National Park, this 10-day tour will exhilarate you with South Africa’s wildest wildlife adventures.",
+        "itinerary": [
+            "After breakfast at your hotel, you’ll meet your local expert guide for a full-day excursion to the utterly captivating Cape Peninsula. Today’s tour will touch on the area’s most iconic sites, starting with a drive along the Atlantic Coast toward Hout Bay. En route, you’ll pass the cosmopolitan suburbs of Green Point, Sea Point, Clifton, and Camps Bay, winding past gleaming waves and vast mountains.",
+            "When you arrive at the charming fishing village of Hout Bay, you’ll embark on a guided boat trip with a naturalist to Seal Island, where you’ll have the opportunity to view and befriend Cape fur seals. From there, the road trip will continue via Chapman’s Peak until you stop again at Cape Point Nature Reserve. Here, you’ll ride the Flying Dutchman Funicular to a quintessential coastal lighthouse.",
+            "After a short break for lunch, the tour will bring you to Simon’s Town. This naval site has garnered a reputation, not only for housing the South African Navy’s largest base, but also, crucially, for its resident colony of penguins; Boulder’s Beach houses a breeding colony of more than 2,000 endangered African Penguins, which you’ll have the chance to see for yourself.",
+            "After this once-in-a-lifetime beach and wildlife stop, the tour will conclude in the late afternoon. You’ll be dropped off at your hotel and have free time to spend however you'd like. "
+        ],
+        "highlights": [
+            {
+                "title": "Boulder Beach Penguin Colonies",
+                "description": "If you thought the seals were a once-in-a-lifetime sight, get ready for Boulder's Beach. During this tour of Simon's Town, you'll stop at a protected penguin colony, where you'll find these black and white birds peacefully roaming sandy beaches. There's a penguin viewing area from which you can observe these endangered animals without disturbing their habitat."
+            },
+            {
+                "title": "Seal Island Cruise",
+                "description": "All aboard the Seal Island boat cruise, which will lead you to the remote, aptly named Seal Island, where you’ll find a robust breeding colony filled with seal pups. With a trained naturalist as your guide, you’ll learn all about these playful seals, which birth thousands more each year. If you’re lucky, you’ll get a close peek at the newest seal pups in their natural habitat, and maybe spot some other birds and sea creatures, too. "
+            },
+            {
+                "title": "Flying Dutchman Funicular",
+                "description": "A ride with a view, the Flying Dutchman Funicular offers a fun and scenic way to break up the day. Rather than walk up a steep hill, you'll ride the funicular to the top of Cape Point, from which you can visit the iconic lighthouse."
+            }
+        ],
+        "pictures": {
+            "cover": "/src/images/place/italy-venice-rome-florence/cover.png",
+            "side": "/src/images/place/italy-venice-rome-florence/side.png",
+            "wrappers": [
+                "/src/images/place/italy-venice-rome-florence/w1.png",
+                "/src/images/place/italy-venice-rome-florence/w2.png",
+                "/src/images/place/italy-venice-rome-florence/w3.png",
+                "/src/images/place/italy-venice-rome-florence/w4.png"
+            ]
+        },
+        "video": "https://www.youtube.com/embed/DfYezIhJ-eg"
+        
     }
 ]

@@ -200,3 +200,22 @@ main {
 .highlight-item span {
     font-size: 34px;
 }
+
+@media (max-width: 768px) {
+    #place-content {
+        flex-direction: column;
+    }
+
+    .place-side {
+        flex: 1 1 100%;
+        height: auto;
+    }
+
+    #place-content>div:last-child {
+        flex: 1 1 100%;
+    }
+
+    .place-side-img {
+        position: static;
+    }
+}
