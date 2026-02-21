@@ -51,7 +51,6 @@ main {
 
 .place-cover-wrapper {
     aspect-ratio: 3 / 2;
-    max-height: 720px;
     overflow: hidden;
 }
 
