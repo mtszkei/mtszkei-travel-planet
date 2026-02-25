@@ -1,11 +1,9 @@
 .card-list {
-  width: 100%;
-  height: 100%;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(350px, 350px));
-  gap: 24px;
-  margin-top: 10px;
-  justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 18px;
+
+    justify-content: center;
 }
 
 .card {
@@ -81,4 +79,5 @@
   width: 100%;
   height: 100%;
   overflow: hidden;
+  object-fit: contain;
 }
